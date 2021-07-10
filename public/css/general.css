@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    font-family: "roboto";
+
+}
+:root{
+    --color-amarillo : #EAC926;
+    --color-azul : #03264C;
+    --color-celeste : #1259c3;
+    --color-grisClaro : #ebebeb;
+    --color-grisOscuro :#666;
+    --color-verde : #39b54a;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+   
+}
+
+
+

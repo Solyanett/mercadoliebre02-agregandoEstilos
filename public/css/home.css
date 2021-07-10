@@ -1,0 +1,104 @@
+
+/*body*/
+
+body{
+    background-color: var(--color-grisClaro);
+}
+body img{
+    margin:5px 15px 
+
+    /* header*/
+}
+header {
+    background-color: var(--color-amarillo);
+    
+}
+.logo{
+    height: 50px;
+    width: 130px;
+    margin: 20px 0 0 30px;
+}
+.buscador{ 
+    width: 130px;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.menu{
+    margin-bottom: 15px;
+}
+
+.mensaje{
+    margin: 15px 50px;
+}
+
+.button{
+    
+    background-color: var(--color-celeste);
+    border-radius: 5px;
+    border:none; 
+    color: white; 
+    
+   
+}
+.caja1{
+    display: flex;
+    justify-content: center;
+}
+
+.banner{
+    width: 100%;
+    margin: 15px 0 
+    
+}
+
+ /* main*/
+
+section img{
+    margin:0 15px;
+    width: 90%;
+}
+
+header article , nav {
+    margin:0 15px 
+}
+
+.titulares{
+    font-size: 24px; 
+}
+.precio{
+    font-size: 18px;
+}
+main h4, span {
+    font-size: 16px;
+}
+.descripcion{
+    background-color: white;
+    margin:5px 15px;
+    width: 90%;
+}
+
+/*footer*/
+
+footer{
+    background-color: white;
+    text-align: center;
+    margin: 20px 10px 5px;  
+}
+footer article{
+    padding: 20px;
+}
+footer article .copyright{
+    color: var(--color-grisOscuro);
+    
+}
+
+footer i{
+    color:var(--color-celeste);
+    
+    margin-bottom: 10px; 
+    font-size: 2em;   
+}
+.copyright{
+    text-align:left;
+    margin-top: 30px;
+}
